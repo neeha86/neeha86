@@ -1,4 +1,4 @@
-- 👋 Hi, I’m neeha tabassum and you van call me ....neeha.
+- 👋 Hi, I’m neeha tabassum and you can call me ....neeha.
 - 👀 I’m interested in coding , and working with the things i love more .
 - 🌱 I’m currently learning web development and want to be more perfect with DSA using java.
 - I'm very much intersted and eager to learn fullstack development.
